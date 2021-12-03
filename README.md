@@ -4,7 +4,7 @@
 
 ### I am a full-stack software engineering with a background in visual arts and pre-medicine. My interests range from practicing analog art mediums to playing electronic user interface games. 
 
-### You can come to me for problem solving, debugging, web design, and literary editing. 
+### You can come to me for creative problem solving, debugging, web design, and literary editing. 
 
 ####
 
