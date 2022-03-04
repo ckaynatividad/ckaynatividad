@@ -2,7 +2,8 @@
 
 ## 🎐
 
-#### Full-stack Software Engineer with a background in art and healthcare. Creative problem solving, debugging, web design, and literary editing. 
+#### I am a full-stack software engineer and I love all things art. I also happen to have a knack for designing things.
+#### Based in Portland, Oregon.
 
 ####
 
