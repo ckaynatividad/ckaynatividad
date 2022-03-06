@@ -4,7 +4,7 @@
 
 #### I am a full-stack software engineer and I love all things art. I also have a knack for designing things.
 
-##### Based in Portland, Oregon
+###### Based in Portland, Oregon
 
 ####
 
