@@ -6,6 +6,14 @@
 
 ###### Based in Portland, Oregon
 
+* Languages: Javascript, HTML/CSS, C++
+* Testing: Jest, QUnit, React, Supertest
+* Tools: Github, VSCode, Node.js, Beekeeper, Postman, Heroku, Netlify, Adobe CC
+* Libraries + Frameworks: React, Express, Material-UI, Webpack, ESLint
+* Databases: Supabase, PostgreSQL/SQL
+* Dev Practices: TDD/BDD
+* OS: macOS, iOS
+
 ####
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
