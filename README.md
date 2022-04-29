@@ -6,7 +6,7 @@
 
 ###### Based in Portland, Oregon
 
-* Languages: Javascript, HTML/CSS, C++
+* Languages: Javascript, SQL, HTML/CSS, C++
 * Testing: Jest, QUnit, React, Supertest
 * Tools: Github, VSCode, Node.js, Beekeeper, Postman, Heroku, Netlify, Adobe CC
 * Libraries + Frameworks: React, Express, Material-UI, Webpack, ESLint
