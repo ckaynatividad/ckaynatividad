@@ -8,7 +8,7 @@
 
 * Languages: Javascript, SQL, HTML/CSS, C++
 * Testing: Jest, QUnit, React, Supertest
-* Tools: Github, VSCode, Node.js, Beekeeper, Postman, Heroku, Netlify, Adobe CC
+* Tools: Github, VSCode, Node.js, Beekeeper, Postman, PostgreSQL, Heroku, Netlify, Adobe CC
 * Libraries + Frameworks: React, Express, Material-UI, Webpack, ESLint
 * Databases: Supabase, PostgreSQL/SQL
 * Dev Practices: TDD/BDD
