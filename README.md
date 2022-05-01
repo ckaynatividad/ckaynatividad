@@ -2,7 +2,7 @@
 
 ## 🎐
 
-#### I am a full-stack software engineer and I love all things art. I also have a knack for designing stuffs.
+ I am a full-stack software engineer and I love all things art. I also have a knack for designing stuffs.
 
 ###### Based in Portland, Oregon
 
