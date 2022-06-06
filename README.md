@@ -7,11 +7,11 @@
 ###### Based in Portland, Oregon
 
 * Languages: Javascript, SQL, HTML/CSS, C++
-* Testing: Jest, QUnit, React, Supertest
+* Testing: Jest, QUnit, React, Supertest, Cypress
 * Tools: Github, VSCode, Node.js, Beekeeper, Postman, PostgreSQL, Heroku, Netlify, Adobe CC
-* Libraries + Frameworks: React, Express, Material-UI, Webpack, ESLint
-* Databases: Supabase, PostgreSQL/SQL
-* Dev Practices: TDD/BDD
+* Libraries + Frameworks: React, Redux, Express, Material-UI, Webpack, ESLint, Mock Service Worker
+* Databases: Supabase, PostgreSQL
+* Dev Practices: TDD/BDD, pair programming, mob programming
 * OS: macOS, iOS
 
 ####
