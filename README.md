@@ -4,8 +4,6 @@
 
  I am a full-stack software engineer and I love all things visual art.
 
-###### Based in Portland, Oregon
-
 ####
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
