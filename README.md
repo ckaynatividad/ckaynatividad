@@ -2,7 +2,7 @@
 
 ## 🎐
 
- I am a full-stack software engineer and I love all things visual art.
+ I am a full-stack software engineer and I love all things art.
 
 ####
 
